@@ -1,0 +1,26 @@
+id: I5DAC8DBA
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:05:49.397811'
+last_modified: '2022-06-05T20:05:49.397815'
+parser: null
+source_metadata:
+  title: Tenth Paṇchen Lama Series
+  language: bo
+  description: 'Texts by and about the Tenth Paṇchen Lama, Trinlé Lhundrup Chökyi
+    Gyaltsen (phrin las lhun grub chos kyi rgyal mtshan, 1938–1989):'
+  volume:
+    fFF66:
+      title: 'The Sound of the Auspicious Conch: A Prayer for the Long Life of the
+        All-Knowing Paṇchen Rinpoche of Tsang'
+      base_file: fFF66.txt
+      order: 1
+      parent: Long Life Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
